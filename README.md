@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 I'm Yousra and I'm Frontend Developer
 
 <!--
 **yousra-00/yousra-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
