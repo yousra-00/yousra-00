@@ -64,13 +64,10 @@ Weather application displaying real-time weather data using external APIs.<br/>
 <h3>📫 Connect with me</h3>
 
 <p>
-<a href="https://www.linkedin.com/in/yousra-nader/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="mailto:yousranader28@gmail.com">
-<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousra-nader/)  
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousranader28@gmail.com)  
+
 </p>
 
 ---
