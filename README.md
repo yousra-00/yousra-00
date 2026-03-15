@@ -45,13 +45,13 @@ A full-featured Quran web application with prayer times, surah reading, audio pl
 <li>
 <b>E-Commerce Website</b><br/>
 Responsive e-commerce website with product listing, search, filters, and cart functionality using API integration.<br/>
-🔗 https://github.com/yousra-00/DummyJSON_Ecommerce
+🔗https://lnkd.in/dtnBFXTA
 </li>
 
 <li>
 <b>Weather App</b><br/>
 Weather application displaying real-time weather data using external APIs.<br/>
-🔗 https://github.com/yousra-00/Weather_App
+🔗https://famous-toffee-3b1bdb.netlify.app/
 </li>
 </ul>
 
