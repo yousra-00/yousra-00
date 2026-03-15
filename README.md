@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm Yousra Nader Ahmed</h1>
+<h1>Hi 👋 I'm Yousra Nader</h1>
 
 <p>
 Computer Science student at <b>Mansoura University</b> 🎓 <br/>
@@ -24,6 +24,7 @@ Passionate about <b>Frontend Development</b> and building modern web application
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Bootstrap-F7DF1E?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
@@ -56,15 +57,7 @@ Weather application displaying real-time weather data using external APIs.<br/>
 
 ---
 
-<h3>📊 GitHub Stats</h3>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=yousra-00&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousra-00&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
