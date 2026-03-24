@@ -37,7 +37,7 @@ Passionate about <b>Frontend Development</b> and building modern web application
 
 <ul>
 <li>
-<b>Quran Web App (React)</b><br/>
+<b>Quran Web App</b><br/>
 A full-featured Quran web application with prayer times, surah reading, audio playback, tafseer, and azkar reminders.<br/>
 🔗 https://lnkd.in/duzm9qNZ
 </li>
