@@ -36,6 +36,14 @@ Passionate about <b>Frontend Development</b> and building modern web application
 <h3>🚀 Latest Projects</h3>
 
 <ul>
+  <li>
+<b>Admin Dashboard</b><br/>
+Admin dashboard built with React and Material UI featuring role-based access control (RBAC), interac-
+tive data visualization using Nivo Charts, dark/light mode, and fully responsive UI. Implemented global
+state management using Context API and ensured data persistence with LocalStorage.
+🔗 capable-youtiao-0e2486.netlify.app
+</li>
+  
 <li>
 <b>Quran Web App</b><br/>
 A full-featured Quran web application with prayer times, surah reading, audio playback, tafseer, and azkar reminders.<br/>
@@ -48,11 +56,7 @@ Responsive e-commerce website with product listing, search, filters, and cart fu
 🔗https://lnkd.in/dtnBFXTA
 </li>
 
-<li>
-<b>Weather App</b><br/>
-Weather application displaying real-time weather data using external APIs.<br/>
-🔗https://famous-toffee-3b1bdb.netlify.app/
-</li>
+
 </ul>
 
 ---
