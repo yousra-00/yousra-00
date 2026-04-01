@@ -40,8 +40,8 @@ Passionate about <b>Frontend Development</b> and building modern web application
 <b>Admin Dashboard</b><br/>
 Admin dashboard built with React and Material UI featuring role-based access control (RBAC), interac-
 tive data visualization using Nivo Charts, dark/light mode, and fully responsive UI. Implemented global
-state management using Context API and ensured data persistence with LocalStorage.
-🔗 capable-youtiao-0e2486.netlify.app
+state management using Context API and ensured data persistence with LocalStorage.<br/>
+🔗 https://capable-youtiao-0e2486.netlify.app
 </li>
   
 <li>
