@@ -10,7 +10,7 @@ Passionate about <b>Frontend Development</b> and building modern web application
 <h3>👩‍💻 About Me</h3>
 
 <ul>
-<li>🎓 3rd year Computer Science student</li>
+<li>🎓 4rd year Computer Science student</li>
 <li>💻 Frontend Developer (React / JavaScript)</li>
 <li>🚀 Building real projects to improve my skills</li>
 <li>🌱 Currently learning more about React and modern web development</li>
