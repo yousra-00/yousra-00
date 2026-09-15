@@ -55,7 +55,7 @@ A full-featured Quran web application with prayer times, surah reading, audio pl
 <li>
 <b>E-Commerce Website</b><br/>
 Responsive e-commerce website with product listing, search, filters, and cart functionality using API integration.<br/>
-🔗https://lnkd.in/dtnBFXTA
+🔗 https://dummy-json-ecommerce-ecru.vercel.app/
 </li>
 
 
