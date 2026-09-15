@@ -49,7 +49,7 @@ state management using Context API and ensured data persistence with LocalStorag
 <li>
 <b>Quran Web App</b><br/>
 A full-featured Quran web application with prayer times, surah reading, audio playback, tafseer, and azkar reminders.<br/>
-🔗 https://lnkd.in/duzm9qNZ
+🔗 region-website.vercel.app
 </li>
 
 <li>
