@@ -2,7 +2,7 @@
 
 <p>
 Computer Science student at <b>Mansoura University</b> 🎓 <br/>
-Passionate about <b>Frontend Development</b> and building modern web applications using <b>React & JavaScript</b>.
+Passionate about <b>Frontend Development</b> and building modern web applications using <b>React & JavaScript,TypeScript</b>.
 </p>
 
 ---
@@ -35,7 +35,7 @@ Passionate about <b>Frontend Development</b> and building modern web application
 
 ---
 
-<h3>🚀 Latest Projects</h3>
+<h3>🚀Latest Projects</h3>
 
 <ul>
   <li>
